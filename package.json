@@ -1,6 +1,6 @@
 {
-  "homepage": "http://eofuck.github.io/tictactoe",
-  "name": "tictactoe",
+  "homepage": "http://eofuck.github.io/ttt",
+  "name": "ttt",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
