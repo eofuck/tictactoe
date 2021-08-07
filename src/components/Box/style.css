@@ -1,0 +1,22 @@
+.box {
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
+
+  width: 100px;
+  height: 100px;
+  background: #eee;
+  border: 2px solid black;
+  cursor: pointer;
+  font-size: 40px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#winning-text {
+  font-size: 20px;
+  font-weight: bold;
+}
